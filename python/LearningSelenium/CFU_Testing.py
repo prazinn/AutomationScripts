@@ -16,7 +16,7 @@ driver.maximize_window()
 driver.get('https://cfu.wlink.com.np')
 driver.maximize_window()
 driver.find_element(By.XPATH, '/html/body/main/div/form[1]/div[2]/div/input' ).send_keys('prajin.shrestha')
-driver.find_element(By.XPATH, '//*[@id="password"]').send_keys('wlink123$#')
+driver.find_element(By.XPATH, '//*[@id="password"]').send_keys('Wlink123$#')
 driver.find_element(By.XPATH, '/html/body/main/div/form[1]/button/span[1]').click()
 #Login Complete
 

@@ -72,7 +72,6 @@ class FTTH(HttpUser):
             '/v1/appEservice/diagnostic/phonesupport_kalash/detail-by-requestid/64887f80b24b8f0cfa2a5215',
             '/v1/appEservice/diagnostic/phonesupport_kalash/detail-by-username',
             '/v1/appEservice/diagnostic/phonesupport_kalash/diagnostic-summary-report/64887f80b24b8f0cfa2a5215',
-            # Add other URLs here as needed
         ]
 
         for url in urls:
